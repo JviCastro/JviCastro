@@ -10,13 +10,23 @@ Gosto de entender o problema antes de escrever a primeira linha: modelar o banco
 
 ## No que eu trabalho
 
-**Integrações com marketplaces** — consumo e sincronização de APIs do Mercado Livre, Shopee, Magalu e Tray: catálogo, pedidos, estoque e preço.
+**Integrações e APIs**
+Consumo das APIs de Mercado Livre, Shopee, Magalu e Tray — catálogo, pedidos, estoque e preço. Autenticação OAuth2 com renovação automática de token, webhooks para receber pedido e mudança de status em tempo real, tratamento de rate limit com retry e backoff. Também construo endpoints próprios, para os sistemas internos conversarem entre si.
 
-**Sistemas internos** — painéis, relatórios e automações que substituem planilha e trabalho manual repetitivo.
+**Automação e dados**
+Rotinas agendadas em cron para sincronização e atualização de preço. Crawlers para extrair informação de onde não existe API. Relatórios de margem, custo e faturamento — transformar dado bruto em decisão comercial.
 
-**Logística** — geração de etiquetas em ZPL e integração com impressão térmica.
+**Atendimento multicanal**
+Integração de WhatsApp e outros canais num painel único, para o time atender tudo de um lugar.
 
-**Infra** — deploy e manutenção em cPanel, administração de MySQL, acesso via SSH.
+**Logística**
+Geração de etiquetas em ZPL e integração com impressão térmica.
+
+**Aplicações em loja**
+Totem de consulta de preço rodando em modo kiosk, no hardware da loja física.
+
+**Infra**
+Deploy e manutenção em cPanel, administração de MySQL, acesso via SSH e servidor local.
 
 ## Stack
 
@@ -24,6 +34,8 @@ Gosto de entender o problema antes de escrever a primeira linha: modelar o banco
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-25A162?style=flat-square&logo=fastapi&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
 **Frontend**
 
@@ -36,6 +48,7 @@ Gosto de entender o problema antes de escrever a primeira linha: modelar o banco
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
 
 ## Fora do código
 
