@@ -4,9 +4,7 @@
 
 Trabalho com PHP, JavaScript e MySQL, construindo sistemas internos e integrações para e-commerce.
 
-Programo desde os 15 anos, de forma autodidata. Hoje atuo em Dev/TI na **Piatã Tem**, onde cuido das integrações com marketplaces e das ferramentas internas que a operação usa todos os dias. Em paralelo, curso **Análise e Desenvolvimento de Sistemas na ITE Bauru**.
-
-Gosto de entender o problema antes de escrever a primeira linha: modelar o banco, desenhar a estrutura, mapear o fluxo. Código simples e legível quase sempre vence código esperto.
+Programo de forma autodidata. Hoje atuo em Dev/TI na **Piatã Tem**, onde cuido das integrações com marketplaces e das ferramentas internas que a operação usa todos os dias. Em paralelo, curso **Análise e Desenvolvimento de Sistemas na ITE Bauru**.
 
 ## No que eu trabalho
 
