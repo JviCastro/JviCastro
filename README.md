@@ -48,6 +48,3 @@ Deploy e manutenção em cPanel, administração de MySQL, acesso via SSH e serv
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white)
 
-## Fora do código
-
-Motociclista, acompanho futebol e jogo quando sobra tempo.
